@@ -24,4 +24,4 @@ public class Producto {
     public String getCategoria() { return categoria; }
     public double getPrecio() { return precio; }
     public int getStock() { return stock; }
-}   
+}
