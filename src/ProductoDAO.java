@@ -16,7 +16,7 @@ public class ProductoDAO {
             Connection cn = ConexionDB.getConexion();
 
             String sql =
-                    "SELECT * FROM PRODUCTOS ORDER BY ID";
+                    "SELECT * FROM PRODUCTOS_J ORDER BY ID";
 
             PreparedStatement ps =
                     cn.prepareStatement(sql);
@@ -57,7 +57,7 @@ public class ProductoDAO {
             Connection cn = ConexionDB.getConexion();
 
             String sql =
-                    "SELECT COUNT(*) TOTAL FROM PRODUCTOS";
+                    "SELECT COUNT(*) TOTAL FROM PRODUCTOS_J";
 
             PreparedStatement ps =
                     cn.prepareStatement(sql);

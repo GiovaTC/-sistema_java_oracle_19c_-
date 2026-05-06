@@ -92,4 +92,4 @@ public class VentanaProductos extends JFrame {
             new VentanaProductos();
         });
     }
-}   
+}
