@@ -26,4 +26,4 @@ public class ConexionDB {
 
         return cn;
     }
-}   
+}
