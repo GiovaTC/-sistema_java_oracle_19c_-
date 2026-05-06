@@ -1,8 +1,11 @@
 # -sistema_java_oracle_19c_- :.
 🧩 Sistema Java + Oracle 19c:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f484b3e-dd9c-449a-beb8-3671590b60af" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f484b3e-dd9c-449a-beb8-3671590b60af" />      
 
+<img width="2550" height="1078" alt="image" src="https://github.com/user-attachments/assets/aaf568f1-622a-4217-9ab2-b765c006332b" />        
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/4307231f-26d1-4339-b49e-6b778a42b5ff" />    
 
 ```
 
